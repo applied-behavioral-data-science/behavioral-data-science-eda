@@ -27,11 +27,12 @@ Dataset details (source, variables, and limitations) will be documented once fin
 - Jupyter Notebook
 
 ## Project Structure
-data/ # Raw and cleaned datasets
-notebooks/ # Jupyter notebooks for analysis
-sql/ # SQL queries used in analysis
-docs/ # Written summaries and documentation
-
+```
+data/        # Raw and cleaned datasets
+notebooks/   # Jupyter notebooks for analysis
+sql/         # SQL queries used in analysis
+docs/        # Written summaries and documentation
+```
 
 ## Outputs
 - Reproducible analysis notebooks
