@@ -1,44 +1,32 @@
-# Behavioral Data Science – Exploratory Data Analysis
+# Applied Behavioral Data Science – Pilot Project
 
-## Overview
-This project is part of the **Applied Behavioral Data Science Collective**, a student-led, beginner-to-intermediate research group focused on applied data science using behavioral, social, and healthcare-related datasets.
+This repository contains a pilot exploratory data analysis (EDA) project developed as part of the **Applied Behavioral Data Science Collective**, a student-led group focused on collaborative, applied data analysis using behavioral and social datasets.
 
-The goal of this project is to practice reproducible exploratory data analysis (EDA) using Python and SQL, with an emphasis on interpretation, transparency, and clear documentation rather than advanced machine learning.
+## About the Collective
+The Applied Behavioral Data Science Collective is an informal, learning-oriented community for students and early-career analysts interested in applied behavioral data science. The collective emphasizes exploratory analysis, interpretation, and transparent documentation rather than advanced modeling or production systems.
 
-As the collective progresses, project scope and analytical concepts may gradually expand in complexity in alignment with members’ skill development, while maintaining an applied, learning-focused approach.
+## Current Project: Dating App Behavior EDA (Pilot)
+This pilot project explores a synthetic dating app dataset to examine how behavioral patterns differ across user engagement levels, as measured by app usage time categories.
 
-## Research Question
-How do behavioral and demographic factors relate to observable patterns in the selected dataset?
+The goals of this project are to:
+- Demonstrate a complete exploratory data analysis workflow
+- Practice translating data patterns into clear written interpretation
+- Establish shared conventions for collaborative EDA projects
+- Serve as a foundation for future, more advanced analyses
 
-## Dataset
-A publicly available behavioral, social, or consumer-focused dataset will be used for this analysis.  
-Dataset details (source, variables, and limitations) will be documented once finalized.
+**Note:** This dataset is synthetic and is used for methodological demonstration only. Findings should not be interpreted as real-world behavioral conclusions.
 
-## Methods
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Summary statistics and visualizations
-- SQL queries for grouped and relational insights
-- Interpretation of findings and documented limitations
-
-## Tools
-- Python (pandas, matplotlib, seaborn)
-- SQL
-- Jupyter Notebook
-
-## Project Structure
+## Repository Structure
 ```
-data/        # Raw and cleaned datasets
-notebooks/   # Jupyter notebooks for analysis
-sql/         # SQL queries used in analysis
-docs/        # Written summaries and documentation
+data/        # Raw datasets  
+notebooks/   # Jupyter notebooks for analysis  
+docs/        # Written summaries and project notes  
+sql/         # Reserved for future projects  
+
 ```
 
-## Outputs
-- Reproducible analysis notebooks
-- Visualizations and summary tables
-- Written insights and limitations
 
-## Disclaimer
-This is an independent, educational, student-led project created for collaborative learning.  
-It is not affiliated with any external organizations or think tanks.
+## How to Get Involved
+This repository serves as a starting point for collaborative learning. Future work may include extending the current analysis, exploring new datasets, or proposing new behavioral research questions.
+
+Contributions at any level are welcome.
