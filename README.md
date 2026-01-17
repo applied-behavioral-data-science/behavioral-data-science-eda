@@ -30,3 +30,6 @@ sql/         # Reserved for future projects
 This repository serves as a starting point for collaborative learning. Future work may include extending the current analysis, exploring new datasets, or proposing new behavioral research questions.
 
 Contributions at any level are welcome.
+
+Test commit from second account
+
