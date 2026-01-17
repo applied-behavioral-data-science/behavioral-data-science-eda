@@ -31,5 +31,4 @@ This repository serves as a starting point for collaborative learning. Future wo
 
 Contributions at any level are welcome.
 
-Test commit from second account
 
